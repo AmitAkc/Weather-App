@@ -1,2 +1,2 @@
 # Weather-App
-link- [page](akcweatherinfo.netlify.app)
+link- [Web page link](akcweatherinfo.netlify.app)
